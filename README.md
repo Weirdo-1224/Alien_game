@@ -71,5 +71,4 @@ python alien_invasion.py
 
 ## 致谢
 本项目基于《Python编程：从入门到实践》一书中的示例项目扩展而来。
-```
         
